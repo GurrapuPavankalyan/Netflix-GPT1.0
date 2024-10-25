@@ -41,7 +41,7 @@ const Login = () => {
       photoURL: USER_AVATAR
     }).then(() => {
       // Profile updated!
-      const { uid, email, displayName, photoURL } = auth.currentUser;
+      const { uid, email, displayName } = auth.currentUser;
       dispatch(addUser({ uid: uid, email: email, displayName: displayName, photoURL: "c:\Users\GURRAPU PAVAN KALYAN\Downloads\Netflix profile icon.png" }));
       //navigate("/browse");
     }).catch((error) => {

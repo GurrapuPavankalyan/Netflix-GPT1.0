@@ -30,13 +30,20 @@
 - Update Store with Trailer video Data
 - Embedded the Youtube video and make it autoplay  and mute
 - Tailwind Classes to make Main Container look awesome
-
+- Build secondary container
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page amazing with TailwindCSS
+- usePopularMovies Custom hook
 
 
 
 # Shortcuts
 
-rafce - Automatically builds the component and exports it. 
+#rafce - Automatically builds the component and exports it. 
+#To scroll horizontally - overflow-x-scroll
+
 
 
 # Features
