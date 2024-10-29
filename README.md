@@ -36,13 +36,23 @@
 - TMDB Image CDN URL
 - Made the Browse page amazing with TailwindCSS
 - usePopularMovies Custom hook
+- GPT search feature
+- GPT Search Page
+- GPT search Bar
+- Multi-language Feature in our App
+- Integrate GPT APIs
 
 
 
 # Shortcuts
 
 #rafce - Automatically builds the component and exports it. 
+
 #To scroll horizontally - overflow-x-scroll
+
+#To place any component/Image/div vertically under any div/component -- use "-z-20"
+
+#To divide available width among many div containers through grid --> grid grid-cols-12
 
 
 
